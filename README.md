@@ -78,18 +78,4 @@ If `PATH_TO_OUTPUT` is provided, the inpainted frames are computed and saved in 
 ```
 
 
-## Citation
 
-If you use DynaSLAM in an academic work, please cite:
-
-    @article{bescos2018dynaslam,
-      title={{DynaSLAM}: Tracking, Mapping and Inpainting in Dynamic Environments},
-      author={Bescos, Berta, F\'acil, JM., Civera, Javier and Neira, Jos\'e},
-      journal={IEEE RA-L},
-      year={2018}
-     }
-
-## Acknowledgements
-Our code builds on [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2).
-
-# DynaSLAM
